@@ -6,6 +6,7 @@ This is a PHP CLI script which is used to parse a specific format csv file and o
     - [category n...]
 
 Example:  
+
     68-OX-YH94 Carrot (5)
     - vegetable
     - green
