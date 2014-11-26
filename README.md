@@ -1,6 +1,6 @@
 This is a PHP CLI script which is used to parse a specific format csv file and output the result in below format
 
-[id] [name] [(quantity>]
+[id] [name] [(quantity)]
     - [category 1]
     - [category 2]
     - [category n...]
