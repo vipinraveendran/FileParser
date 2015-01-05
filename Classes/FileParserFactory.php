@@ -5,6 +5,9 @@
  */
 namespace FileParser\Classes;
 use \FileParser\Includes;
+use \FileParser\Classes\CSVFileParser;
+use \FileParser\Classes\XMLFileParser;
+use \FileParser\Classes\JSONFileParser;
 
 class FileParserFactory
 {

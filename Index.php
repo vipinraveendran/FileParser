@@ -8,9 +8,6 @@ require_once('RegisterSetting.php');
 // register the autoloader method
 \FileParser\RegisterSetting::registerSiteAutoloader();
 
-use \FileParser\Classes\CSVFileParser;
-use \FileParser\Classes\XMLFileParser;
-use \FileParser\Classes\JSONFileParser;
 use \FileParser\Classes\FileParserFactory;
 use \FileParser\Classes\Logger;
 
